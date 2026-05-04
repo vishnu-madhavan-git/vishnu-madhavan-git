@@ -15,9 +15,10 @@ Building 9Ruby and IX Ruby.
 
 - 9Ruby: https://www.9ruby.com
 - NOVAVOX: https://www.novavox.in
-- Gem Focus Timer
-- IXR Agent
-- Drive Organizer
+- 9Ruby Site: https://github.com/vishnu-madhavan-git/9ruby-site
+- IXR Agent: https://github.com/vishnu-madhavan-git/ixr-agent
+- Gem Focus Timer: https://github.com/vishnu-madhavan-git/gem-focus-timer
+- Drive Organizer: https://github.com/vishnu-madhavan-git/drive-organizer
 
 ## Stack
 
